@@ -1,2 +1,2 @@
 FROM alpine:latest
-ADD zipunzipper-linux /zipunzip
+ADD zipunzip-linux /zipunzip
